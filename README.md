@@ -14,9 +14,7 @@ fisher cafedomancer/ghq
 
 ## Usage
 
-```fish
-ghq
-```
+Hit `Ctrl-g` (but it conflicts with fzf plugin's key bindings) .
 
 [travis-link]: https://travis-ci.org/cafedomancer/ghq
 [travis-badge]: https://img.shields.io/travis/cafedomancer/ghq.svg
