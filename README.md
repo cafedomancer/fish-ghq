@@ -2,7 +2,7 @@
 
 [![Slack Room][slack-badge]][slack-link]
 
-ghq plugin
+ghq plugin support for the fish shell.
 
 ## Install
 
